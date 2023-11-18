@@ -1,4 +1,4 @@
-#GIT TUTORIAL README
+# GIT TUTORIAL README
 
 This is a tutorial for git
 
